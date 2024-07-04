@@ -1,0 +1,29 @@
+body {
+padding: 150px 20px 20px 20px;
+background-color: #DEFCF9;
+}
+header {
+display: flex;
+margin: 100px 0;
+align-items: center;
+}
+
+table{
+width: 10%;
+}
+#carouselExampleCaptions{
+width: 1000px;
+align-items: center;
+margin-left: 100px;
+}
+.input-group{
+display: flex;
+flex-direction: column;
+}
+.image{
+display: flex;
+flex-direction: column;
+justify-content: center;
+width: 100%;
+margin-top: 90px;
+}
